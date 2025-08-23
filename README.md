@@ -25,12 +25,14 @@
 - **Dixit Educations (Educational Institution Organisation)** → Built front-end using HTML5, CSS3, jQuery. [Live Website](https://dixiteducations.org/)
 - **Sky Books (Cloud Bookkeeping Specialists)** → Built front-end using HTML5, CSS3, jQuery. [Live Website](https://www.skybooks.com.au/)
 
-## 📊 Portfolio
-![Saurabh's Portfolio Website](https://saurabhlp88.github.io/)
+## 📊 Portfolio 
+[Saurabh's Portfolio Website](https://saurabhlp88.github.io/)
 
 ## 📊 GitHub Stats  
-![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaurabhLP88&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhLP88&layout=compact&theme=radical)
 
 ## 📫 Connect with Me  
-- LinkedIn: [linkedin.com/in/salakhanpal/] (https://www.linkedin.com/in/salakhanpal/)  
+- LinkedIn: [linkedin.com/in/salakhanpal/] (https://www.linkedin.com/in/salakhanpal/)
+- GitHub: [github.com/SaurabhLP88](https://github.com/SaurabhLP88)
 - Email: firsty111@gmail.com 
