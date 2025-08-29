@@ -17,6 +17,10 @@
 - **Paradise Nursery (e-Plant Shopping Website)** → Build front-end using HTML5, CSS3, Typescript, ReactJS. [Repo Link](https://github.com/SaurabhLP88/e-plantShopping.git) | [Live Demo](https://saurabhlp88.github.io/e-plantShopping)
 - **BudgetEase (Event Budgeting Application)** → Build front-end using HTML5, CSS3, Typescript, ReactJS, Tailwind CSS. [Repo Link](https://github.com/SaurabhLP88/conference_event_planner.git) | [Live Demo](https://saurabhlp88.github.io/conference_event_planner/)
 
+## 📌 Mini Assigments
+- **GitHub contribution workflow** → Understand forking, pull requests, and working with upstream repositories. [Repo Link](https://github.com/SaurabhLP88/gkpbt-css-circle.git)
+- **Flux ToDo App** → Clear unidirectional data flow using actions, dispatcher, stores, and views. [Repo Link](https://github.com/SaurabhLP88/flux-project.git)
+
 ## 📌 Work Experience
 - **CalcDiamond (Diamond Inventory Management App)** → Build front-end using HTML5, CSS3, Typescript, ReactJS.  [Repo Link](https://github.com/SaurabhLP88/DiamondInventoryMobile.git) | [Live Demo](https://saurabhlp88.github.io/DiamondInventoryMobile/)
 - **In Fashion Business (B2B News Portal)** → Built front-end using HTML5, CSS3, JS, jQuery. [Live Website](https://infashionbusiness.com/)
