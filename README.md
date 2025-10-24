@@ -19,10 +19,16 @@
 **🔂 Version Control & Deployment:**
 - Git, GitHub, Git Bash, Netlify, Vite, Agile & Scrum Practices
 
+**🔂 Testing and Quality Assurance:**
+- Jest, Mocha, Jasmine, Karma, Cypress.io, Sentry
+
+**🔂 AI and Generative Technologies:**
+- Generative AI, NLP, LLMs, Transformers (Hugging Face, OpenAI APIs)
+
 **🈁 Software Engineering Concepts:**
 - Software Development Life Cycle (SDLC), Version Control, Pair Programming, Software as a Service (SaaS), Object-Oriented Analysis & Design (OOAD), Service-Oriented Architecture (SOA), Distributed Systems, Software Deployment, Flowcharts, Pseudocode, Requirement Specifications, Unified Requirements Specification (URS)
 
-***️⃣ Additional Expertise:**
+**⏺️ Additional Expertise:**
 - Cloud Computing, Virtualization, Cloud Security, Hybrid Cloud, Test-Driven Development (TDD), Behavior-Driven Development (BDD), Debugging with Chrome DevTools, Web Optimization, SEO
 
 ## 📌 Projects  
