@@ -6,23 +6,23 @@
 
 ## 🔧 Tech Stack  
 
-**> Frontend Development:**
+**⬆️ Frontend Development:**
 - HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Redux, React Hooks, Flux, Ionic Framework
 - Bootstrap, TailwindCSS, Figma, UI/UX Design Principles, Responsive Web Design (RWD), Progressive Web Apps (PWA)
 
-**> Backend Development:**
+**⤵️ Backend Development:**
 - Node.js, Express.js, Python, Django, RESTful APIs, JWT Authentication, NoSQL & SQL Databases (MongoDB, MySQL)
 
-**> DevOps & Cloud:**
+**🔀 DevOps & Cloud:**
 - Docker, Kubernetes, Webpack, Microsoft Azure, IBM Cloud, CI/CD Pipelines, Cloud Native Development, Serverless Functions, Containers, Microservices Architecture
 
-**> Version Control & Deployment:**
+**🔂 Version Control & Deployment:**
 - Git, GitHub, Git Bash, Netlify, Vite, Agile & Scrum Practices
 
-**> Software Engineering Concepts:**
+**🈁 Software Engineering Concepts:**
 - Software Development Life Cycle (SDLC), Version Control, Pair Programming, Software as a Service (SaaS), Object-Oriented Analysis & Design (OOAD), Service-Oriented Architecture (SOA), Distributed Systems, Software Deployment, Flowcharts, Pseudocode, Requirement Specifications, Unified Requirements Specification (URS)
 
-**> Additional Expertise:**
+***️⃣ Additional Expertise:**
 - Cloud Computing, Virtualization, Cloud Security, Hybrid Cloud, Test-Driven Development (TDD), Behavior-Driven Development (BDD), Debugging with Chrome DevTools, Web Optimization, SEO
 
 ## 📌 Projects  
