@@ -1,19 +1,33 @@
 # Hi 👋, I'm Saurabh Lakhanpal  
 
-💻 **Senior Front-End Developer Transitioning to Full Stack |  Coursera Learner | Building Modern Web Apps | 14+ Years Experience in HTML, CSS, JS**  
+💻 **Certified IBM Full Stack Developer and Front End Developer | Senior Front-End Engineer | MERN Stack | Building Scalable, User-Centric Web Apps**  
 
-🚀 I love building responsive, user-friendly applications and transitioning into modern frameworks like React & Bootstrap.  
+🚀 Now expanding expertise into full-stack engineering. Passionate about building scalable, high-performance web applications using modern technologies, and eager to contribute to innovative, real-world projects while continuously enhancing my technical and leadership skills.
 
 ## 🔧 Tech Stack  
-- HTML5, CSS3, JavaScript, jQuery (Core) , Typescript
-- React.js, Ionic Framework, Redux, React Hooks, Flux,
-- Bootstrap, TailwindCSS  
-- Git, GitHub, Git Bash, Netlify, Vite
-- Microsoft Azure, Desktop Virtualization, Subnetting
-- Cloud Computing, Virtualization, Cloud Security, Hybrid Cloud
-- Software Development Life Cycle (SDLC), Version Control, Pair Programming, Software as a Service (SaaS), OOAD, Service-Oriented Architecture (SOA), Distributed Systems, Software Deployment, Flow Charts, Pseudocode, Continuous Integration and Continuous Delivery (CI/CD), Agile & Waterfall Methodologies, Requirement Specifications, URS
+
+**> Frontend Development:**
+- HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Redux, React Hooks, Flux, Ionic Framework
+- Bootstrap, TailwindCSS, Figma, UI/UX Design Principles, Responsive Web Design (RWD), Progressive Web Apps (PWA)
+
+**> Backend Development:**
+- Node.js, Express.js, Python, Django, RESTful APIs, JWT Authentication, NoSQL & SQL Databases (MongoDB, MySQL)
+
+**> DevOps & Cloud:**
+- Docker, Kubernetes, Webpack, Microsoft Azure, IBM Cloud, CI/CD Pipelines, Cloud Native Development, Serverless Functions, Containers, Microservices Architecture
+
+**> Version Control & Deployment:**
+- Git, GitHub, Git Bash, Netlify, Vite, Agile & Scrum Practices
+
+**> Software Engineering Concepts:**
+- Software Development Life Cycle (SDLC), Version Control, Pair Programming, Software as a Service (SaaS), Object-Oriented Analysis & Design (OOAD), Service-Oriented Architecture (SOA), Distributed Systems, Software Deployment, Flowcharts, Pseudocode, Requirement Specifications, Unified Requirements Specification (URS)
+
+**> Additional Expertise:**
+- Cloud Computing, Virtualization, Cloud Security, Hybrid Cloud, Test-Driven Development (TDD), Behavior-Driven Development (BDD), Debugging with Chrome DevTools, Web Optimization, SEO
 
 ## 📌 Projects  
+- **Best Cars (Car dealership Website)** → Full-stack web application designed for a car dealership to manage listings, reviews, and customer interactions efficiently. [Repo Link](https://github.com/SaurabhLP88/best_cars_capstone.git)
+- **Stay Healthy (Doctor Appointment Booking System)** → Doctor Appointment Booking App enabling users to search doctors, book, and manage appointments seamlessly. [Repo Link](https://github.com/SaurabhLP88/stay_healthy)
 - **Paradise Nursery (e-Plant Shopping Website)** → Build front-end using HTML5, CSS3, Typescript, ReactJS. [Repo Link](https://github.com/SaurabhLP88/e-plantShopping.git) | [Live Demo](https://saurabhlp88.github.io/e-plantShopping)
 - **BudgetEase (Event Budgeting Application)** → Build front-end using HTML5, CSS3, Typescript, ReactJS, Tailwind CSS. [Repo Link](https://github.com/SaurabhLP88/conference_event_planner.git) | [Live Demo](https://saurabhlp88.github.io/conference_event_planner/)
 
