@@ -33,7 +33,7 @@
 
 ## 📌 Projects  
 - **Best Cars (Car dealership Website)** → Full-stack web application designed for a car dealership to manage listings, reviews, and customer interactions efficiently. [Repo Link](https://github.com/SaurabhLP88/best_cars_capstone.git)
-- **Stay Healthy (Doctor Appointment Booking System)** → Doctor Appointment Booking App enabling users to search doctors, book, and manage appointments seamlessly. [Repo Link](https://github.com/SaurabhLP88/stay_healthy)
+- **Stay Healthy (Doctor Appointment Booking System)** → Doctor Appointment Booking App enabling users to search doctors, book, and manage appointments seamlessly. [Repo Link](https://github.com/SaurabhLP88/stay_healthy.git) | [Live Demo](https://saurabhlp88.github.io/stay_healthy/)
 - **Paradise Nursery (e-Plant Shopping Website)** → Build front-end using HTML5, CSS3, Typescript, ReactJS. [Repo Link](https://github.com/SaurabhLP88/e-plantShopping.git) | [Live Demo](https://saurabhlp88.github.io/e-plantShopping)
 - **BudgetEase (Event Budgeting Application)** → Build front-end using HTML5, CSS3, Typescript, ReactJS, Tailwind CSS. [Repo Link](https://github.com/SaurabhLP88/conference_event_planner.git) | [Live Demo](https://saurabhlp88.github.io/conference_event_planner/)
 
